@@ -125,10 +125,10 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-![Screenshot 2024-05-05 212001](https://github.com/deepak23000154/Calc/assets/151951350/61574849-1863-44d2-a84c-f2a080e5e566)
 
 ![Screenshot 2024-05-05 211954](https://github.com/deepak23000154/Calc/assets/151951350/fb5ad5cb-cef7-4d29-a032-f408c9714be3)
 
+![Screenshot 2024-05-05 212001](https://github.com/deepak23000154/Calc/assets/151951350/61574849-1863-44d2-a84c-f2a080e5e566)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
